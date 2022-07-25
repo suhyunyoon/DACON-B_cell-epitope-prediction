@@ -1,0 +1,10 @@
+*.zip
+*.tar.gz
+*.csv
+*.pth
+*.pt
+.ipynb_checkpoints/*
+
+data/*
+catboost_info/*
+esm/*
