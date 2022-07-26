@@ -3,6 +3,7 @@
 *.csv
 *.pth
 *.pt
+*.hdf5
 .ipynb_checkpoints/*
 
 data/*

@@ -1,0 +1,10 @@
+ipykernel
+torch
+torchsampler
+matplotlib
+scikit-learn
+pandas
+tqdm
+
+catboost
+optuna
